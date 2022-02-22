@@ -14,8 +14,6 @@ Bill-Detail
 Hotel-Detail
 ![localhost_khachsan_hotelsdetail php_id=6](https://user-images.githubusercontent.com/66162813/155042328-db7010f7-5341-4934-a44f-cd2df10b13a5.png)
 
-Profile
-![localhost_khachsan_profile php (1)](https://user-images.githubusercontent.com/66162813/155042331-15941dd4-df49-4d26-a428-8ae778f64d90.png)
 
 Quản lý
 
@@ -54,8 +52,6 @@ In Hóa Đơn
 ![localhost_khachsan_admin_print php_id=25 idRoom=15 idbills=24](https://user-images.githubusercontent.com/66162813/155042376-dccd721a-8855-4dca-bf39-98a710ffe514.png)
 
 
-Chi Tiết Hóa Đơn
-![localhost_khachsan_chitiethoadon php_idbills=24 idbookings=25 idrooms=15](https://user-images.githubusercontent.com/66162813/155042383-28a6fd4a-d08c-41da-9e6d-773507ab64c3.png)
 
 Thống Kê
 ![localhost_khachsan_admin_chitietphong php_month=03 year=2021](https://user-images.githubusercontent.com/66162813/155042364-4787c40f-1a8f-4dab-880f-e5257246cafb.png)
